@@ -15,4 +15,4 @@ This repository contains the **backend** for a serverless resume website hosted 
 
 ## 🗂️ Related Repositories
 - [**Frontend**](https://github.com/LaurTudo/aws-cloud-resume-challenge-frontend) – Static site on S3 + CloudFront + Cloudflare DNS.
-- **Infrastructure** (private for now) – Terraform for AWS resources and Cloudflare DNS.  
+- [**Infrastructure**](https://github.com/LaurTudo/aws-cloud-resume-challenge-infra) (private for now) – Terraform for AWS resources and Cloudflare DNS.
